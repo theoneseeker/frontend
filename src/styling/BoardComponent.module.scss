@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+}
+
+.centerAll {
+    position: absolute;
+    left: 5%;
+    top: 0%;
+    transform: translate(-5%, -10%);
+}
+
+.centerHori {
+    text-align: center;
+}
+
+.left{
+    text-align: left;
+}
+
+.centerButtons {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 5%;
+    max-width: 100px;
+}
